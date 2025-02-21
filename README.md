@@ -7,7 +7,7 @@ Welcome to my repository of Rust projects! This repository showcases various pro
 Explore the following Rust projects:
 
 1. **To-Do List**: A task management system with functionality for saving and importing tasks.
-2. **Prší**: A card game project inspired by the traditional Czech card game *Prší*. (Work in progress)
+2. **Prší**: A card game project inspired by the traditional Czech card game *Prší*.
 
 ## ⚙️ Requirements
 
